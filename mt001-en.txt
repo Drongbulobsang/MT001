@@ -1038,33 +1038,58 @@ There are two traditions of enumeration.
 The first is from the Abhidharma commentaries and is explained by the scholar Śāntipa in his Commentary on the Compendium of Sūtra. In it he says:
 The different names of the numbers are taught in the Abhidharma.
 Numerical units are solitary and coupled.
-Solitary numerical units are, eka, daśa, śatam, sahasram, prabhedaṃ, lakṣam, atilakṣam, koṭī, madhya. These are the nine solitary numerical units.
+Solitary numerical units are, eka, daśa, śatam,
+sahasram, prabhedaṃ, lakṣam, atilakṣam, koṭī, madhya. These are the nine solitary numerical units.
 There are three divisions of coupled numerical units.
-They are ayuta, nayuta, prasuta, kaṃkara, bimbara, akṣobhya, vivā, utsaṃgah, and vāhana.
-These nine together with their nine “greater” units make up the first division of coupled units.
+They are ayuta,
+nayuta, prasuta, 
+kaṃkara, bimbara, akṣobhya, 
+vivā, utsaṃgah, 
+and vāhana.These nine together with their nine “greater” units make up the first division of coupled units.
 Tiṭibha, hetu, karabha, indra, samāpta, gati, nimbaraja, mudrā, and balaṃ, together with their “greater” units make up the nine numerical units of the second division of coupled units.
 Saṃjñā, vibhūta, and balākṣaṃ make up, together with their respective “greater” units, the third division of coupled units.
-Therefore, the nine solitary and the forty-two numerical units that make up the three divisions of the coupled units together total fifty-one. These appear in the Abhidharma.
+Therefore, the nine solitary and the forty-two numerical units that make up the three divisions 
+of the coupled units together total fifty-one.These appear in the Abhidharma.
 The remaining eight numerical units do not appear in the text.
 However adding them to the category of coupled units makes fifty-nine.
 These fifty-nine have been given the name “numbers.” The sixtieth is said to be apart from these names and is known as asaṃkhyāṃ. This has been taught by the master Vasubandhu.
-As this quote explains, there are sixty numerical units.
-Each unit has its own name, and the sixtieth is known as asaṃkhyāṃ.
-Moreover each coupled unit consists of the unit and its greater unit, as in ayuta and mahāyutah, for example.
-This doubling up is repeated for the others.
+As this quote explains, there are sixty numerical units.Each unit has its own name, and the sixtieth is known as asaṃkhyāṃ.
+Moreover each coupled unit consists of the unit and its greater unit, as in ayuta and mahāyutah, for example.This doubling up is repeated for the others.
 The second tradition is that taken from the sutras and is also explained by the scholar Śāntipa in his Commentary on the Compendium of Sutra.
+
 In it he says:
 The names of the divisions of numerical units are spoken of in the sutras:
 “Numerical units are of two kinds, coupled and solitary.
 Of the solitary there are 116.
-They are jewa , khökhö , thegu , traktrik , thamtham , nyangnying , gangyang , bendün , charchur , chakchik , jangjing , tsemtsem , chalchöl , chüchü
-, serser , tribtrib , yangang , choma , tramtrim , napnup , sangsang , gyüyé , tangyé , trayar , sayé , mitsung , lamlum , yamyom , traltrül , thethü
-, samchö , drangdring , droyé , ngoyé , sangyak , tromgye , tsechö , yongten , drukyö , sangyal , thingyuk , yicho , napnep , triktham , yalyal , drangyé , thukyal , shangshang , yakyak , thamthim , lomnyal , shalchö , shalyal , shalmé , shalkhor , shalthim , garshal , shalsang , shalthak , shalphül , shalshi , chogyur , nyarnyer , chakchik , salsül , salsal , gyodek , phenphün , nangyé , rimdröl , dzigü
-, dzitül , phünyöl , ngéngé , drangtsi , sabdrang , gakyang , shungdül , trukché , ölchö , dapyé , chayé , dranglé , jimcho , yamé , nyalyé , taptep , benché , phangphung , kheutsang , shungsung , chokyöl , thatül , yüngyang , bünlop , lamlom , nyeyé , langling , japjip , mitsal , jamyé , ngadrang , möyé , trachal , logyé , bumdip , gamgum , lalo , and drangchö .
-On to these are added the seven root numerical units to make 116.
-These are the solitary units.
+They are jewa , khökhö , thegu , traktrik , thamtham ,
+nyangnying , gangyang , bendün , charchur , chakchik , jangjing ,
+tsemtsem , 
+chalchöl , chüchü, 
+serser , 
+tribtrib , 
+yangang , 
+choma , 
+tramtrim , napnup , sangsang , gyüyé , tangyé , trayar , sayé , mitsung , lamlum , yamyom , traltrül , thethü
+,samchö , drangdring , droyé , ngoyé , sangyak , tromgye , tsechö , yongten , drukyö , 
+sangyal , thingyuk , yicho , napnep , triktham , yalyal , drangyé , 
+thukyal , shangshang , yakyak , thamthim , lomnyal ,
+shalchö , shalyal , shalmé , shalkhor , 
+shalthim , garshal , shalsang , shalthak , shalphül ,
+shalshi , chogyur , 
+nyarnyer , chakchik , salsül , salsal , 
+gyodek , phenphün , nangyé , rimdröl , dzigü
+,dzitül , phünyöl , ngéngé , drangtsi , sabdrang , gakyang , 
+shungdül , trukché , ölchö , dapyé , chayé , 
+dranglé , jimcho , yamé , nyalyé , taptep , 
+benché , phangphung , kheutsang , shungsung , chokyöl , thatül , 
+yüngyang , bünlop , lamlom , nyeyé , langling , japjip , mitsal , 
+jamyé , ngadrang , 
+möyé , trachal , logyé , bumdip , 
+gamgum , lalo , and drangchö .On to these are added the seven root numerical units to make 116.These are the solitary units.
+
 Of the coupled units there are ten.
-They are, pakyé , yalchong , muyal , drangyöl , mijal , samchö , thayam , pakthak , jödu mepa , and jödu mepai yang jödu mepa .
+They are, pakyé , yalchong , muyal , drangyöl , mijal , samchö , thayam , 
+pakthak , jödu mepa , and jödu mepai yang jödu mepa.
 Onto these ten are added replicated units from drangchö to jödu mepa to make twenty.
 In total 136 units have been named.
 As this quote explains, the total of solitary and coupled units is 136.
@@ -1073,113 +1098,207 @@ These seven are put at the beginning.
 The units from one to lalo total 116 solitary units.
 There are ten units from drangchö to jödu mepa, and because they are coupled units, that becomes twenty.
 These twenty added to the previous solitary units makes 136.
-Therefore it seems that the text of the sutra should run, “… gamgum and lalo. Onto these are added the seven root numerical units… ”;
+Therefore it seems that the text of the sutra should run, 
+“gamgum and lalo. Onto these are added the seven root numerical units… ”;
 and “Of the coupled units there are ten. They are, drangchö, pakyé… ”.
 Furthermore the coupled units would run from drangchö and drangchö replicated up to jödu mepa and jödu mepai yang jödu mepa.
-Causes for their birth Great nonvirtuous actions create birth in hell, middling nonvirtuous actions result in birth as a ghost, while small nonvirtuous actions bring about birth as an animal.
+Causes for their birth 
+Great nonvirtuous actions create birth in hell, 
+middling nonvirtuous actions result in birth as a ghost, 
+while small nonvirtuous actions bring about birth as an animal.
 Virtuous throwing karma together with the powerful completing karma of giving are causes for birth as an asura.
 Virtuous throwing karma alongside either virtuous or nonvirtuous completing karma results in birth as a human.
-Virtuous throwing karma coupled with the completing karma of powerful acts of giving together with the force of mantra recitation results in birth as a god of the desire realm. Nonvirtuous throwing karma with virtuous completing karma will bring about birth in the world of nāgas.
-Birth in any of the sixteen realms of form requires a meditative absorption vow that has discarded the ten nonvirtuous actions, plus throwing karma consisting of an individual preparatory meditative equipoise for each of the sixteen realms, and a completing karma in the form of the meditative equipoise of the actual absorption for each of the sixteen.
-Similarly, for birth in the formless realms, the preparatory meditative equipoise for each realm becomes the throwing karma, and the actual absorption is the completing karma. However, if this is true, the Great Commentary says:
+Virtuous throwing karma coupled with the completing karma of powerful acts of giving together with the force of mantra recitation results in birth as a god of the desire realm. 
+
+Nonvirtuous throwing karma with virtuous completing karma will bring about birth in the world of nāgas.
+Birth in any of the sixteen realms of form requires a meditative absorption vow that has discarded the ten nonvirtuous actions, plus throwing karma consisting of an individual preparatory meditative equipoise for each of the sixteen realms, 
+and a completing karma in the form of the meditative equipoise of the actual absorption for each of the sixteen.
+Similarly, for birth in the formless realms, the preparatory meditative equipoise for each realm becomes the throwing karma, 
+and the actual absorption is the completing karma. However, if this is true, 
+the Great Commentary says:
 By the force of morality and by the meditative concentration of extinction by air and so forth, the sixteen form realms, such as None Higher, will come to be.
-This and further quotes explain that from the meditation of extinction by earth comes birth in the Sphere of Brahmā and the following three form realms. From the meditation of extinction by water arises birth in Limitless Light and the next three form realms. From the meditation of extinction by fire comes birth in Vast Virtue and the following three form realms. From the meditation of extinction by air comes birth in the Lesser and the following three form realms. And from the meditation of extinction by space arises the four formless realms.
-Does this not contradict the previous explanation?
-There is no contradiction here, for although extinction by earth and so forth are used as terminology for the causal meditative equipoises of the form and formless realms, it is not the thinking of the Great Commentary that the meditative equipoises of the ten extinctions, such as extinction by earth and so forth, are necessary causes for birth in the form and formless realms.
-If this were the Great Commentary’s thinking, then it would mistakenly follow that it was also the Great Commentary’s thinking that birth in these two higher realms would necessarily entail entering the teachings of the Buddha and the paths of the Buddha, and that without casting aside non-Buddhist philosophy it would impossible to gain birth in these higher realms. How are the terms extinction by earth and so forth used for the causal meditative equipoise of the absorptions and the formless realms?
+This and further quotes explain that from the meditation of extinction by earth comes birth in the Sphere of Brahmā 
+and the following three form realms. From the meditation of extinction by water arises birth in Limitless Light and the next three form realms. From the meditation of extinction by fire comes birth in Vast Virtue 
+and the following three form realms. From the meditation of extinction by air comes birth in the Lesser and 
+the following three form realms. And from the meditation of extinction by space arises the four formless realms.Does this not contradict the previous explanation?
+There is no contradiction here, 
+for although extinction by earth and so forth are used as terminology for the causal meditative equipoises of the form and formless realms, 
+it is not the thinking of the Great Commentary that the meditative equipoises of the ten extinctions, such as extinction by earth and so forth, are necessary causes for birth in the form and formless realms.
+If this were the Great Commentary’s thinking, then it would mistakenly follow that it was also the Great Commentary’s thinking that birth in these two higher realms would necessarily entail entering the teachings of the Buddha and the paths of the Buddha, 
+and that without casting aside non-Buddhist philosophy it would impossible to gain birth in these higher realms. 
+How are the terms extinction by earth and so forth used for the causal meditative equipoise of the absorptions and the formless realms?
 These can be described in sequence.
-The throwing and completing meditative equipoises of the absorptions of the realms of Sphere of Brahmā, Chanting in the Presence of Brahmā, Great Realm of Brahmā, and  Little Virtue extinguish the desires found in lower levels. They are therefore known as extinctions. Because the element is earth, they are extinctions by earth.
+The throwing and completing meditative equipoises of the absorptions of the realms of Sphere of Brahmā, Chanting in the Presence of Brahmā, Great Realm of Brahmā, and  
+Little Virtue extinguish the desires found in lower levels. They are therefore known as extinctions. Because the element is earth, they are extinctions by earth.
 Similarly the throwing and completing meditative equipoises for birth in Limitless Light, Illuminating Light, Little Virtue, and Limitless Virtue extinguish the desires found in their respective lower levels and are therefore extinctions.
-The element is water, and they are therefore extinctions by water. The throwing and completing meditative equipoises for the four realms beginning with Vast Virtue, the four realms commencing with the Lesser, and for the four formless realms commencing with Source of Limitless Space also extinguish the desires of their respective lower levels and are known as extinctions. Because their elements are, respectively, fire, air, and space, they are therefore known as extinctions by fire, air, and space.
+The element is water, and they are therefore extinctions by water.
+The throwing and completing meditative equipoises for the four realms beginning with Vast Virtue, 
+the four realms commencing with the Lesser, 
+and for the four formless realms commencing with Source of Limitless Space also extinguish the desires of their respective lower levels and are known as extinctions. 
+Because their elements are, respectively, fire, air, and space, they are therefore known as extinctions by fire, air, and space.
 What is the purpose of referring to these preparatory meditative equipoises, or throwing karmas, and actual meditative equipoises, or completing karmas, not by their own names but as extinctions by earth and so forth?
 There is a special purpose in this.
 In Kālacakra thinking all phenomena are ascertained by their being in the nature of the five elements.
-With this in mind the causal meditative equipoise absorptions that produce the sixteen form realms categorized in sets of four are to be understood as being primarily of the elements of earth, water, fire, and air, respectively, while the causal equipoises that produce the formless realms are to be understood as being of the element of space.
+With this in mind the causal meditative equipoise absorptions that produce the sixteen form realms categorized in sets of four are to be understood as being primarily of the elements of earth, water, fire, and air, 
+respectively, while the causal equipoises that produce the formless realms are to be understood as being of the element of space.
 Furthermore the reason that these causal equipoises are not mentioned by name, but are taught using terms such as extinction by earth and so forth, is to make it clear that in order to migrate to the form and formless realms, the manifest desires lacking in each destination must first be extinguished.
 The seed syllables that produce the thirty-one realms are mentioned in the Realms chapter:
-The four formless are a and so forth, separate from the two of ha.
-i and so forth are the sixteen of form.
+The four formless are a and so forth, separate from the two of hai and so forth are the sixteen of form.
 ha and so forth are clear as being the ten of desire together with the one consonant kṣa.
-Therefore, the seeds of the formless realms are, a, ā, aṃ, and āḥ.
-The seeds of the sixteen realms of form are, i, ī, e, ai, ṛ, ṛī, ar, ār, u, ū, o, au, ḷ, ḷī, al, āl.
+Therefore, the seeds of the formless realms are, 
+a, ā, aṃ, and āḥ.
+The seeds of the sixteen realms of form are, 
+i, ī, e, ai, ṛ, ṛī, ar, ār, u, ū, o, au, ḷ, ḷī, al, āl.
 The seeds of the six kinds of desire gods are, ha, hā, ya, yā, ra, rā.
 The seeds of humans and asura are wa and wā.
 The seeds of ghosts and animals are la and lā.
-The seed of hell is kṣa. The Stars and the Planets The gola circling Mount Meru above the Earth This has three outlines: 1.Lunar mansions, houses, and the emergence of the planets
-2.How the stars and planets orbit the skies
-3.The gola of the earth:
-Emergence of the seasons Lunar mansions, houses, and the emergence of the planets Understanding this topic depends on understanding the birth houses of the planets and so forth. Therefore this will be explained.
+The seed of hell is kṣa.
+
+The Stars and the Planets 
+The gola circling Mount Meru above the Earth This has three outlines: 
+Lunar mansions, houses, 
+and the emergence of the planets How the stars and planets orbit the skies
+The gola of the earth:
+Emergence of the seasons Lunar mansions, 
+
+houses, and the emergence of the planets Understanding this topic depends on understanding the birth houses of the planets and so forth.Therefore this will be explained.
 In the Gnosis chapter of the Great Commentary, in the fourth summary, it says:
 Now the birth houses are spoken of as Aries and so forth.
-The moon, Venus, and the sun arose in Aries, Gemini, and Cancer respectively.
-Mars was born in Leo, Jupiter in Virgo, Rāhu in Libra, Mercury in Scorpio, Saturn at the beginning of Sagittarius, and Ketu in the last.
-Therefore, in the beginning, the lunar mansions, houses, and the other stars were formed. Then the sun was born in the beginning of the house of Cancer.
+The moon, Venus, and the sun arose in Aries, 
+Gemini, and Cancer respectively.Mars was born in Leo, Jupiter in Virgo, Rāhu in Libra, Mercury in Scorpio, Saturn at the beginning of Sagittarius, and Ketu in the last.
+Therefore, in the beginning, the lunar mansions, houses, and the other stars were formed. 
+Then the sun was born in the beginning of the house of Cancer.
 This marked the first actual year, and the sun became the ruler of the solar days.
-The sun then moved counterclockwise, occupying the different lunar mansions, until it arrived at the beginning of the lunar mansion of aśvinī.
+The sun then moved counterclockwise, 
+occupying the different lunar mansions, 
+until it arrived at the beginning of the lunar mansion of aśvinī.
 In aśvinī the sun arrived directly in line with the meridian of the central sector of the east, and there, simultaneously, the moon was born in aśvinī. Therefore it is explained that the moon was born in Aries.
-At the same time, the first lunar day began, the first light of the moon was born, and it was the beginning of that particular solar day. The moon became the ruler of that day, and the first karaṇa year began. Because of this, Aries is posited  as the first of the houses, aśvinī as the first of the lunar mansions, the waxing is posited as the first of the two halves of the month, and because the lunar mansion on the fifteenth day of that moon was citrā, the month of that name was posited as the first of the months.
-From then on until Mars was born, the sun and the moon alternated in their rule over the days.
-The sun then arrived at the beginning of the lunar mansion magha within Leo. In magha the sun arrived directly in line with the meridian of the central eastern sector. At the same time Mars was born in the lunar mansion magha and became ruler of that day. The following day was ruled by the sun, and until Mercury was born, the sun, moon, and Mars rotated their lordship over the days.
-The sun continued in its counterclockwise occupation of the lunar mansions and arrived at the halfway point of the lunar mansion anurādha within Scorpio. There, in anurādha, it arrived directly in line with the meridian of the central eastern sector. Simultaneously Mercury was born in anurādha to become ruler of that day. The following day the sun ruled, and in this way, until Jupiter was born, these four planets rotated in their ruling of the days.
-As it had done previously, the sun continued to occupy the lunar mansions until it arrived at the beginning of the lunar mansion hasta in Virgo. In hasta it arrived directly in line with the meridian of the central eastern sector. Simultaneously Jupiter was born in hasta and became ruler of the day on which it was born. The following day the sun ruled, and until the birth of Venus, these five ruled the days by rotation.
-The sun then reached the beginning of the lunar mansion punarvasu in Gemini. Together with punarvasu the sun arrived directly in line with the center of the central eastern sector, and at the same time Venus was born in punarvasu, where it became ruler of the day in which it was born. The following day was ruled by the sun, and until Saturn was born, these six planets ruled, in order, successive days.
-Likewise Saturn was born at the beginning of the lunar mansion mūla within Sagittarius. Therefore, when the sun together with mūla arrived directly in line with the center of the central eastern sector, Saturn was born, and the ensuing process was as described above.
-The reason why the planets must have been born in this order is that, firstly, they could not have been born at the same time, because it is taught that they each had different birth houses and birth lunar mansions, and all seven alternating planets were born directly in line with the center of the central eastern sector.
+At the same time, the first lunar day began, 
+the first light of the moon was born, 
+and it was the beginning of that particular solar day. 
+The moon became the ruler of that day, 
+
+and the first karaṇa year began. 
+Because of this, Aries is posited as the first of the houses, 
+aśvinī as the first of the lunar mansions, 
+the waxing is posited as the first of the two halves of the month, and because the lunar mansion on the fifteenth day of that moon was citrā, the month of that name was posited as the first of the months.
+From then on until Mars was born, 
+the sun and the moon alternated in their rule over the days.
+The sun then arrived at the beginning of the lunar mansion magha within Leo. 
+In magha the sun arrived directly in line with the meridian of the central eastern sector. At the same time Mars was born in the lunar mansion magha 
+and became ruler of that day. 
+The following day was ruled by the sun, 
+and until Mercury was born, the sun, moon, and Mars rotated their lordship over the days.
+The sun continued in its counterclockwise occupation of the lunar mansions and arrived at the halfway point of the lunar mansion anurādha within Scorpio. 
+There, in anurādha, it arrived directly in line with the meridian of the central eastern sector. Simultaneously Mercury was born in anurādha to become ruler of that day. 
+The following day the sun ruled, and in this way, until Jupiter was born, these four planets rotated in their ruling of the days.
+As it had done previously, the sun continued to occupy the lunar mansions until it arrived at the beginning of the lunar mansion hasta in Virgo. 
+In hasta it arrived directly in line with the meridian of the central eastern sector. Simultaneously Jupiter was born in hasta and became ruler of the day on which it was born. 
+The following day the sun ruled, 
+and until the birth of Venus, these five ruled the days by rotation.
+The sun then reached the beginning of the lunar mansion punarvasu in Gemini.Together with punarvasu the sun arrived directly in line with the center of the central eastern sector, 
+and at the same time Venus was born in punarvasu, 
+where it became ruler of the day in which it was born. 
+The following day was ruled by the sun, 
+and until Saturn was born, these six planets ruled, in order, successive days.
+Likewise Saturn was born at the beginning of the lunar mansion mūla within Sagittarius. Therefore, 
+when the sun together with mūla arrived directly in line with the center of the central eastern sector, 
+Saturn was born, and the ensuing process was as described above.
+The reason why the planets must have been born in this order is that, 
+firstly, they could not have been born at the same time, 
+because it is taught that they each had different birth houses and birth lunar mansions, 
+and all seven alternating planets were born directly in line with the center of the central eastern sector.
 They were, therefore, born successively. The order of the planets is taught as beginning with the sun and ending with Saturn.
 This is the order of birth, and is not the order found in the explanations from the chapters on the Other Kālacakra or in the order of practice.
-Furthermore the term alternating planets refers to their alternating lordship of successive days, which in turn is decided by order of planetary birth, hence the term alternating planets.
-Moreover the birthplace of the planets is directly above the center of the central eastern sector, and it can be known that they were born while the sun was there also by the fact that the changeover time for the alternating planets directly at the center of the central eastern sector is at dawn from the standpoint of the direct center of the central southern sector. These planets are enemies to each to other. The Great Commentary says: Similarly, to clarify once more: “They fight with each other and are enemies.” This means that there are the peaceful and the wrathful.
-Mercury and Maṅgala, Jupiter and Venus, Saturn and Ketu — these fight each other and are enemies. The houses of Aries and Scorpio are the dominion of Mars, and if Mercury occupies these houses when he is dwelling in them, Mars and Mercury will fight. Similarly Mercury has dominion over Gemini and Virgo, and if Mars enters while he dwells there, Mars and Mercury will fight.
-The houses of Sagittarius and Pisces are the dominion of Jupiter, and if Venus enters while Jupiter is dwelling there,  then Venus and Jupiter will fight.
+Furthermore the term alternating planets refers to their alternating lordship of successive days, 
+which in turn is decided by order of planetary birth, hence the term alternating planets.
+Moreover the birthplace of the planets is directly above the center of the central eastern sector, 
+and it can be known that they were born while the sun was there also by the fact that the changeover time for the alternating planets directly at the center of the central eastern sector is at dawn from the standpoint of the direct center of the central southern sector. 
+These planets are enemies to each to other. The Great Commentary says: 
+Similarly, to clarify once more: “They fight with each other and are enemies.” This means that there are the peaceful and the wrathful.
+Mercury and Maṅgala, Jupiter and Venus, Saturn and Ketu — these fight each other and are enemies. 
+The houses of Aries and Scorpio are the dominion of Mars, and if Mercury occupies these houses when he is dwelling in them, Mars and Mercury will fight. 
+Similarly Mercury has dominion over Gemini and Virgo, and if Mars enters while he dwells there, Mars and Mercury will fight.
+The 
+houses of Sagittarius and Pisces are the dominion of Jupiter, and if Venus enters while Jupiter is dwelling there,  then Venus and Jupiter will fight.
 The dominions of Venus are the houses of Taurus and Libra, and if Jupiter should enter, these two planets will fight.
 Saturn has dominion over Capricorn and Aquarius, and if Ketu enters, Saturn and Ketu will fight.
 Moon’s dominion is Cancer, and when Saturn enters, the moon and Ketu combine to cause trouble for Saturn.
 Similarly trouble not only occurs when an enemy enters the dominion of another. Should an enemy appear in the birth lunar mansion of another, then those two will fight.
 This occurs when the planets gather as friends and enemies in each other’s birth lunar mansions.
-In other houses and lunar mansions, mutual enemies will gather but will not fight. Concerning the way the planets orbit and occupy the twelve houses, all the stars, lunar mansions, and planets are themselves propelled by the power of the gola winds. This movement is known as gola wind movement and is solely a clockwise motion around Meru, at no time varying in its regularity. Concerning the individual movements of the planets, all planets except Rāhu and Kālāgni occupy the houses and lunar mansions in a counterclockwise motion by incremental steps.
-Concerning how they occupy the houses and lunar mansions, the progressive early steps and regressive later steps of the slow stages of the five planets and the sun are decremental, and the regressive early steps and progressive later steps are incremental. When the five planets arrive in their own birth sign, all increment and decrement in the slow stages is canceled out.
+In other houses and lunar mansions, mutual enemies will gather but will not fight. 
+Concerning the way the planets orbit and occupy the twelve houses, 
+all the stars, lunar mansions, and planets are themselves propelled by the power of the gola winds. 
+This movement is known as gola wind movement and is solely a clockwise motion around Meru, at no time varying in its regularity. 
+Concerning the individual movements of the planets, all planets except Rāhu and Kālāgni occupy the houses and lunar mansions in a counterclockwise motion by incremental steps.
+Concerning how they occupy the houses and lunar mansions, the progressive early steps and regressive later steps of the slow stages of the five planets and the sun are decremental, and the regressive early steps and progressive later steps are incremental. 
+When the five planets arrive in their own birth sign, all increment and decrement in the slow stages is canceled out.
 The progressive early steps and the regressive later steps of the fast stages of the five planets are incremental, while the regressive early steps and progressive later steps are decremental.
-When the step index is at zero, all increment and decrement in the fast steps are canceled out, and any of the five planets whose index is zero has disappeared into the sun and is conjunct with the sun. When any of the five planets gather at their individual birth signs conjunct  with the sun, any increment and decrement in both fast and slow stages is canceled out.
-Therefore, within the period of time from the birth of a planet until it again becomes conjunct with the sun in its own birth sign can be found the imprint of its fixed or mean motion. Therefore fixed motion is the averaged-out planetary orbit through the complete circle of lunar mansions. The fixed motion of the three kinds of days for each of the planets is found by dividing a planetary orbit in terms of its three kinds of days among the 1,620 hours of the lunar mansions.
-The appearance and disappearance of the five planets is to be understood in terms of the sun, because a planet separate from the sun is visible to the eye, while a planet conjunct with the sun is not.
+When the step index is at zero, all increment and decrement in the fast steps are canceled out, 
+and any of the five planets whose index is zero has disappeared into the sun and is conjunct with the sun. 
+When any of the five planets gather at their individual birth signs conjunct  with the sun, 
+any increment and decrement in both fast and slow stages is canceled out.Therefore, 
+within the period of time from the birth of a planet until it again becomes conjunct with the sun in its own birth sign can be found the imprint of its fixed or mean motion. 
+
+Therefore fixed motion is the averaged-out planetary orbit through the complete circle of lunar mansions. 
+The fixed motion of the three kinds of days for each of the planets is found by dividing a planetary orbit in terms of its three kinds of days among the 1,620 hours of the lunar mansions.
+The appearance and disappearance of the five planets is to be understood in terms of the sun, 
+because a planet separate from the sun is visible to the eye, 
+while a planet conjunct with the sun is not.
 The Great Commentary says:
 Now the text speaks of the appearance and disappearance of planets.
-“Whatever planets dwell within the tenancy of the sun will definitely disappear.” By the rays of the sun it will not be seen, and is said to have disappeared.
-However such a planet has not completely disappeared. “Abandoning the sun, it will rise.” By the power of its own movement, the planet that has set will leave the sun and rise, because it has left the rays of the sun.
-Similarly, when the peaceful planets Venus, Ketu, and Mercury set into the sun, they set from the left of the sun, and when they rise they do so also from the left.
+“Whatever planets dwell within the tenancy of the sun will definitely disappear.” 
+By the rays of the sun it will not be seen, and is said to have disappeared.However such a planet has not completely disappeared. 
+“Abandoning the sun, it will rise.” By the power of its own movement, the planet that has set will leave the sun and rise, because it has left the rays of the sun.
+Similarly, when the peaceful planets Venus, Ketu, and Mercury set into the sun, they set from the left of the sun, 
+and when they rise they do so also from the left.
 The wrathful planets — Mars, Jupiter, and Saturn — rise and set from the right of the sun.
-Similarly, when peaceful and wrathful planets meet, the wrathful will pass to the right of the peaceful, and the peaceful will pass to the left of the wrathful.
-Rāhu was born in Libra in the lunar mansion of citrā while Kālāgni was born in the lunar mansion revatī, and from the time of their birth they occupy the houses or lunar mansions in clockwise motion.
+Similarly, when peaceful and wrathful planets meet, the wrathful will pass to the right of the peaceful, 
+and the peaceful will pass to the left of the wrathful.
+Rāhu was born in Libra in the lunar mansion of citrā while Kālāgni was born in the lunar mansion revatī, 
+and from the time of their birth they occupy the houses or lunar mansions in clockwise motion.
 The Rāhu head to his Kālāgni tail covers half the house and lunar-mansion circle in a counterclockwise direction.
-The number of lunar mansions  and degree hours to appear in the chart of the body of Rāhu are counted backward from the lunar mansion revatī, while the numbers that appear in the charts of the head and tail are counted forward from the lunar mansion aśvinī.
-The Condensed Tantra and the commentary talk in general terms about how Rāhu engages the moon at the times of full moon and no moon, but these are not discussed in depth.In order to understand how Rāhu engages with the sun and moon, it is important to know how Rāhu orbits.
+The number of lunar mansions  and degree hours to appear in the chart of the body of Rāhu are counted backward from the lunar mansion revatī, 
+while the numbers that appear in the charts of the head and tail are counted forward from the lunar mansion aśvinī.
+The Condensed Tantra and the commentary talk in general terms about how Rāhu engages the moon at the times of full moon and no moon, but these are not discussed in depth.
+In order to understand how Rāhu engages with the sun and moon, it is important to know how Rāhu orbits.
 The Great Commentary states:
 “Moving to the left and not to the right.” This means that Rāhu moves to the left and not to the right, and that it grasps the moon from its left.
 “To the right,” means moving to the right and grasping the moon from its right.
-This, and Rāhu’s self-orbiting around Meru and through the lunar mansions, is all the Great Commentary mentions on this topic, and it does not expound on any left and right movements.
+This, and Rāhu’s self-orbiting around Meru and through the lunar mansions, is all the Great Commentary mentions on this topic, 
+and it does not expound on any left and right movements.
 These are explained by reference to the Root Tantra and to karaṇa astronomy.
 The Great Commentary states:
 Know that this is due to Rāhu’s orbits.
-This is well known in all karaṇa systems, and therefore here the conqueror Mañjuśrī did not persist.The orbiting and so forth of Rāhu can be known from the Root Tantra and from the karaṇa works of others.
+This is well known in all karaṇa systems, and therefore here the conqueror Mañjuśrī did not persist.
+The orbiting and so forth of Rāhu can be known from the Root Tantra and from the karaṇa works of others.
 Therefore Rāhu’s engagement with the sun and moon not occurring as calculated in the charts is due to the fault of not knowing precisely its orbiting habits.
 Within its left and right orbiting, Rāhu has its northward and southward journeys.
 The Great Commentary says:
 In the circle of houses, every planet travels south and north.
-The sun, for example, occupies the lunar mansions and the six houses.Therefore every planet has its northward and southward passages.
+The sun, for example, occupies the lunar mansions and the six houses.
+Therefore every planet has its northward and southward passages.
 How the stars and planets orbit the skies This is under two outlines:
-1.Examination of the assertions of others 2.Presentation of our own position
+Examination of the assertions of others.Presentation of our own position
 Examination of the assertions of others
 The Great Commentary says:
-“South from the center of the gola, the bow-shaped houses of time,dwelling in the fire mandala.” This means that from the center of the gola chart drawn at the time of equal day and night, the bow-shaped formation of six houses, half of the circle of stars, dwell in the south.
-“In the north, the Śīta Mountains and, like fine lotus petals, Aries in the east, Libra, and so forth.” This means that just as in the south the six houses dwell within half the circle of stars, similarly, north from the center of the gola chart, there dwell, by division, six houses. “Aries in the east, Libra, and so forth” means that it stretches as far as Virgo. Similarly Libra and the others reach as far as Pisces.According to most scholars, the meaning of this passage from the Great Commentary, which incorporates citations from the Condensed Tantra, is the following. From here in the central southern sector on the morning of the spring equinox, the sun is in Aries above the skies of the eastern sector.
-These skies are divided into northern and southern parts.
-This division stretches across to the western sector, where the skies are also divided north and south. From this dividing line and above Meru, a chart is projected with the mind. In the northern part of the chart, in the eastern section of the east, is Aries. In the northeast is Taurus. The north is in two parts.
-To the west of the north is Gemini, and in the half of the north to the east dwells Cancer. In the northwest is Leo. The west is also in two parts. In its western half lies Virgo. These are the six houses of the north.
+“South from the center of the gola, the bow-shaped houses of time,dwelling in the fire mandala.” 
+This means that from the center of the gola chart drawn at the time of equal day and night, the bow-shaped formation of six houses, half of the circle of stars, dwell in the south.
+“In the north, the Śīta Mountains and, like fine lotus petals, Aries in the east, Libra, and so forth.” 
+This means that just as in the south the six houses dwell within half the circle of stars, similarly, north from the center of the gola chart, 
+there dwell, by division, six houses. “Aries in the east, Libra, and so forth” 
+means that it stretches as far as Virgo. Similarly Libra and the others reach as far as Pisces.According to most scholars, the meaning of this passage from the Great Commentary, which incorporates citations from the Condensed Tantra, is the following. From here in the central southern sector on the morning of the spring equinox, the sun is in Aries above the skies of the eastern sector.These skies are divided into northern and southern parts.
+This division stretches across to the western sector, where the skies are also divided north and south. From this dividing line and above Meru, a chart is projected with the mind. In the northern part of the chart, in the eastern section of the east, is Aries. 
+In the northeast is Taurus. The north is in two parts.To the west of the north is Gemini, and in the half of the north to the east dwells Cancer. 
+In the northwest is Leo. The west is also in two parts. In its western half lies Virgo. These are the six houses of the north.
 Similarly, in the eastern half of the west is Libra.
-In the southwest is Scorpio. The south is in two parts.
-In the western part is Sagittarius and in the eastern part, Capricorn.
+In the southwest is Scorpio. 
+The south is in two parts.In the western part is Sagittarius 
+and in the eastern part, Capricorn.
 In the southeast is Aquarius, and in the western half of the east lies Pisces. The houses from the Libra to Pisces are the six houses of the south.
-Furthermore, in this mentally constructed chart projected from the skies above Meru,  which is the midway point between the skies directly above the eastern sector and the skies directly above the western sector, the six northern houses from Aries to Virgo are said to be in the shape of fine lotus petals, and the six southern houses from the Libra to Pisces are said to be arranged in the shape of a bow.
+Furthermore, in this mentally constructed chart projected from the skies above Meru,  which is the midway point between the skies directly above the eastern sector and the skies directly above the western sector, the six northern houses from Aries to Virgo 
+are said to be in the shape of fine lotus petals, 
+and the six southern houses from the Libra to Pisces are said to be arranged in the shape of a bow.
 This is explained as being the meaning of the phrases “like fine lotus petals” and “the bow-shaped houses of time,” as found in the tantra and its commentary.
 This explanation is incorrect.
 When the sun is in Aries directly above the central meridian of the central eastern sector on the morning of the spring equinox at the central meridian of the central southern sector, and the houses are arranged upon their paths over the twelve sectors, it is true that the six houses of the north are of the shape of lotus petals. However, in this depiction, the phrase “In the north, the Śīta Mountains” makes no sense. The formation of the six houses of the south are also not in the shape of a bow.
