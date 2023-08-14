@@ -1465,75 +1465,181 @@ in the western section of the north Pisces,
 in the northwest Aries, 
 and in the northern section of the west Taurus.These are the six northern houses.
 In the southern section of the west lies Gemini, 
-in the southwest Cancer, in the western section of the south Leo, in the eastern section of the south Virgo, in the southeast Libra, and in the southern section of the east Scorpio.
-These are the six southern houses. In the western sector of the north the directions are also divided into twelve parts. In the northern section of the east lies Scorpio, in the northeast Sagittarius, in the eastern section of the north Capricorn, in the western section of the north Aquarius, in the northwest Pisces, and in the northern section of the west Aries.
-These are the six northern houses. In the southern section of the west is Taurus, in the southwest is Gemini, in the western section of the south is Cancer, in the eastern section of the south is Leo, in the southeast is Virgo, and in the southern section of the east is Libra.
+in the southwest Cancer, 
+in the western section of the south Leo, 
+in the eastern section of the south Virgo, 
+in the southeast Libra, 
+and in the southern section of the east Scorpio.These are the six southern houses. 
+In the western sector of the north the directions are also divided into twelve parts. In the northern section of the east lies Scorpio, 
+in the northeast Sagittarius, 
+in the eastern section of the north Capricorn, 
+in the western section of the north Aquarius, 
+in the northwest Pisces, 
+and in the northern section of the west Aries.These are the six northern houses. 
+In the southern section of the west is Taurus, in the southwest is Gemini, in the western section of the south is Cancer, in the eastern section of the south is Leo, in the southeast is Virgo, and in the southern section of the east is Libra.
 These are the six southern houses.
-In the central sector of the north the directions are also divided into twelve parts. In the northern section of the east lies Libra, in the northeast Scorpio, in the eastern section of the north Sagittarius, in the western section of the north Capricorn, in the northwest Aquarius, and in the northern section of the west Pisces. These are the six northern houses. In the southern section of the west is Aries, in the southwest is Taurus, in the western section of the south is Gemini, in the eastern section of the south is Cancer, in the southeast is Leo, and in the southern section of the east is Virgo. These are the six southern houses.
-In the eastern sector of the north the directions are divided into twelve parts. In the northern section of the east lies Virgo, in the northeast Libra, in the eastern section of the north Scorpio, in the western section of the north Sagittarius, in the northwest Capricorn, and in the northern section of the west Aquarius. These are the six northern houses.
-In the southern section of the west is Pisces, in the southwest is Aries, in the western section of the south is Taurus, in the eastern section of the south is Gemini, in the southeast is Cancer, and in the southern section of the east is Leo.
-These are the six southern houses. In the westernmost sector of the west the directions are divided into twelve parts.
-In the northern section of the east lies Leo, in the northeast Virgo, in the eastern section of the north Libra, in the western section of the north Scorpio, in the northwest Sagittarius, and in the northern section of the west Capricorn.
-These are the six northern houses.
-In the southern section of the west is Aquarius, in the southwest is Pisces, in the western section of the south is Aries, in the eastern section of the south is Taurus, in the southeast is Gemini, and in the southern section of the east is Cancer.
-These are the six southern houses. In the central sector of the north the directions are also divided into twelve parts.
-In the northern section of the east lies Cancer, in the northeast Leo, in the eastern section of the north Virgo, in the western section of the north Libra, in the northwest Scorpio, and in the northern section of the west Sagittarius.
-These are the six northern houses. In the southern section of the west is Capricorn, in the southwest is Aquarius, in the western section of the south is Pisces, in the eastern section of the south is Aries, in the southeast is Taurus, and in the southern section of the east is Gemini. These are the six southern houses. In the easternmost sector of the west the directions are also divided into twelve parts.
-In the northern section of the east lies Gemini, in the northeast lies Cancer, in the eastern section of the north is Leo, in the western section of the north is Virgo, in the northwest is Libra, and in the northern section of the west is Scorpio. These are the six northern houses.
-In the southern section of the west is Sagittarius, in the southwest is Capricorn, in the western section of the south is Aquarius, in the eastern section of the south is Pisces, in the southeast is Aries, and in the southern section of the east is Taurus.
-These are the six southern houses. In the western sector of the south the directions are also divided into twelve parts.
-In the northern section of the east lies Taurus, in the northeast Gemini, in the eastern section of the north Cancer, in the western section of the north Leo, in the northwest Virgo, and in the northern section of the west Libra. These are the six northern houses.
-In the southern section of the west is Scorpio, in the southwest is Sagittarius, in the western section of the south is Capricorn, in the eastern section of the south is Aquarius, in the southeast is Pisces, and in the southern section of the east is Aries.
-These are the six southern houses. Therefore this particular way of constructing charts on paper and other materials is a method of knowing, clearly and unmistakably, the path of the twelve houses over each of the twelve sectors. This is an illustration of the profound point “If one corner is held, the whole can be moved” and is the definitive position of the commentary. You who assert the above should look on this as new advice. The explanation that the path of the houses runs above a region stretching from the Śīta Mountains to the Mountains of Fire is based upon the path of the lunar mansions and houses together with the other stars.
-However, the actual path of the houses with the lunar mansions, sun, moon, and other planets is within an area that covers 12,500 yojana of the earth mandala and reaches outward up to three quarters of the water mandala to make an area of 50,000 yojana.
-This has been correctly taught by scholars .
-The reason for their assertion is as follows. If a gnomon is planted in the ground at midday here in our land of Tibet on the day the sun has traveled its farthest north, its shadow will still face slightly to the north. Therefore, this establishes that the sun, as well as the house and lunar mansion that the sun occupies, dwells to the south of our land of Tibet.
-Tibet is the fifth land of the six lands, which in order from the north are Himālaya, Kailash, China, Khotan, Tibet, and India.
-Therefore, in the sixth land, at the southern limit of India, one’s shadow would simply surround oneself.
-While it can be accepted that even at the time of the northernmost point of its travels the sun does not come up beyond the southern limit of India,how is it established that the path of the sun along with the houses and lunar mansions stretches for 50,000 yojana up to three quarters of the water mandala, 12,500 yojana inward from its edge?
+In the central sector of the north the directions are also divided into twelve parts. In the northern section of the east lies Libra, 
+in the northeast Scorpio, 
+in the eastern section of the north Sagittarius, 
+in the western section of the north Capricorn, 
+in the northwest Aquarius, 
+and in the northern section of the west Pisces. These are the six northern houses. 
+In the southern section of the west is Aries, 
+in the southwest is Taurus, 
+in the western section of the south is Gemini, 
+in the eastern section of the south is Cancer, 
+in the southeast is Leo, 
+and in the southern section of the east is Virgo. These are the six southern houses.
+In the eastern sector of the north the directions are divided into twelve parts. In the northern section of the east lies Virgo, 
+in the northeast Libra, 
+in the eastern section of the north Scorpio, 
+in the western section of the north Sagittarius, 
+in the northwest Capricorn, 
+and in the northern section of the west Aquarius. These are the six northern houses.
+In the southern section of the west is Pisces, 
+in the southwest is Aries, 
+in the western section of the south is Taurus, 
+in the eastern section of the south is Gemini, 
+in the southeast is Cancer, 
+and in the southern section of the east is Leo.These are the six southern houses. 
+In the westernmost sector of the west the directions are divided into twelve parts.In the northern section of the east lies Leo, 
+in the northeast Virgo, 
+in the eastern section of the north Libra, 
+in the western section of the north Scorpio, 
+in the northwest Sagittarius, 
+and in the northern section of the west Capricorn.These are the six northern houses.
+In the southern section of the west is Aquarius, 
+in the southwest is Pisces, 
+in the western section of the south is Aries, 
+in the eastern section of the south is Taurus, 
+in the southeast is Gemini, 
+and in the southern section of the east is Cancer.These are the six southern houses. 
+In the central sector of the north the directions are also divided into twelve parts.In the northern section of the east lies Cancer,
+in the northeast Leo, 
+in the eastern section of the north Virgo,
+in the western section of the north Libra, 
+in the northwest Scorpio, 
+and in the northern section of the west Sagittarius.These are the six northern houses. 
+In the southern section of the west is Capricorn, 
+in the southwest is Aquarius, 
+in the western section of the south is Pisces, 
+in the eastern section of the south is Aries, 
+in the southeast is Taurus, 
+and in the southern section of the east is Gemini. These are the six southern houses. 
+In the easternmost sector of the west the directions are also divided into twelve parts.In the northern section of the east lies Gemini, 
+in the northeast lies Cancer, 
+in the eastern section of the north is Leo, 
+in the western section of the north is Virgo, 
+in the northwest is Libra, 
+and in the northern section of the west is Scorpio. These are the six northern houses.
+In the southern section of the west is Sagittarius, 
+in the southwest is Capricorn, in the western section of the south is Aquarius, in the eastern section of the south is Pisces, in the southeast is Aries, and in the southern section of the east is Taurus.These are the six southern houses. 
+In the western sector of the south the directions are also divided into twelve parts.
+In the northern section of the east lies Taurus, 
+in the northeast Gemini, 
+in the eastern section of the north Cancer, 
+in the western section of the north Leo, 
+in the northwest Virgo, 
+and in the northern section of the west Libra. These are the six northern houses.
+In the southern section of the west is Scorpio, 
+in the southwest is Sagittarius, 
+in the western section of the south is Capricorn, 
+in the eastern section of the south is Aquarius, 
+in the southeast is Pisces, 
+and in the southern section of the east is Aries.These are the six southern houses. 
+Therefore this particular way of constructing charts on paper and other materials is a method of knowing, clearly and unmistakably, the path of the twelve houses over each of the twelve sectors. 
+This is an illustration of the profound point 
+“If one corner is held, the whole can be moved” and is the definitive position of the commentary. You who assert the above should look on this as new advice. 
+The explanation that the path of the houses runs above a region stretching from the Śīta Mountains to the Mountains of Fire is based upon the path of the lunar mansions and houses together with the other stars.
+However, the actual path of the houses with the lunar mansions, sun, moon, and other planets is within an area that covers 12,500 yojana of the earth mandala and reaches outward up to three quarters of the water mandala to make an area of 50,000 yojana.This has been correctly taught by scholars .
+The reason for their assertion is as follows. If a gnomon is planted in the ground at midday here in our land of Tibet on the day the sun has traveled its farthest north, its shadow will still face slightly to the north. 
+Therefore, this establishes that the sun, as well as the house and lunar mansion that the sun occupies, dwells to the south of our land of Tibet.
+Tibet is the fifth land of the six lands, which in order from the north are Himālaya, 
+Kailash, 
+China, 
+Khotan, 
+Tibet, 
+and India.Therefore, in the sixth land, at the southern limit of India, one’s shadow would simply surround oneself.
+While it can be accepted that even at the time of the northernmost point of its travels the sun does not come up beyond the southern limit of India,
+how is it established that the path of the sun along with the houses and lunar mansions stretches for 50,000 yojana up to three quarters of the water mandala, 12,500 yojana inward from its edge?
 The Great Commentary says:
-Here the measurement of the gola is 75,000 yojana from the fire mandala of the south to the snows of the north. “Similarly orbiting east and west,” this is taught clearly in the fifth chapter.
+Here the measurement of the gola is 75,000 yojana from the fire mandala of the south to the snows of the north. 
+“Similarly orbiting east and west,” this is taught clearly in the fifth chapter.
 Therefore a circular chart is drawn from the center of an equinox path and stretches to depictions of the Śīta Mountains and the Mountains of Fire in order to illustrate the path of the twelve houses above each of the twelve sectors. However this illustration of the pathway of the houses, lunar mansions, and sun is a generalized and rough depiction.
 The specific path should be known from explanations found in the Gnosis chapter. The text of these explanations is missing from some translations, including the Shong and new Jonang translations.
 However, after verse 190 from the Gyijo and Ma translations, there is this verse:
-The limits of the sun’s travels north and south stretch three quarters of the Salt Ocean and up to Kailash
-for a distance of 50,000 yojana.
-In a halved chart, day and night are of space fire hours.
+The limits of the sun’s travels north and south stretch three quarters of the Salt Ocean 
+and up to Kailash for a distance of 50,000 yojana.In a halved chart, day and night are of space fire hours.
 50,000 is completed in eyes, nāga, and moon, traveling from day to day.
-This verse is the reference for the previous commentary quote, and so those previously mentioned scholars who have taught this are correct. An explanation of how the length of day and night are formed by the sun’s occupation of the houses
-The houses and the lunar mansions orbit Meru in a clockwise direction to the right, and by the force of the wind carrying the houses, the sun and the planets that occupy the houses also orbit Meru to the right.
+This verse is the reference for the previous commentary quote, and so those previously mentioned scholars who have taught this are correct. 
+
+An explanation of how the length of day and night are formed by the sun’s occupation of the houses The houses and the lunar mansions orbit Meru in a clockwise direction to the right, 
+and by the force of the wind carrying the houses, the sun and the planets that occupy the houses also orbit Meru to the right.
 However, in terms of their individual movements, the sun and the other planets, with the exception of Rāhu, enter and occupy the lunar mansions by orbiting Meru in a counterclockwise direction to the left.
-The planets make both southward and northward journeys, while the houses and the lunar mansions have no southward or northward path and no individual movements. They move over the same path they have always followed, regardless of the sector they are traversing.
+The planets make both southward and northward journeys, 
+while the houses and the lunar mansions have no southward or northward path and no individual movements. They move over the same path they have always followed, regardless of the sector they are traversing.
 The Great Commentary says: Therefore this orbiting force is that of the houses but not that of the sun that dwells in the houses.
 The circle of the houses orbits to the right, the planets move into the houses to the left.
 Just as the circle of houses orbit, likewise Rāhu, facing west, travels to the right.
 The east-facing planets travel around Meru to the left and move through the circle of houses.
-It is in this way that the sun is the main indicator of the differences in time and so forth. Therefore it is necessary to know, among other things, which house the sun is occupying in the regions of the twelve sectors at the times of the limits of sun’s northward and southward passages and of the equinoxes. This will be explained. First let us explain the spring equinox.
+It is in this way that the sun is the main indicator of the differences in time and so forth. Therefore it is necessary to know, among other things, which house the sun is occupying in the regions of the twelve sectors at the times of the limits of sun’s northward and southward passages and of the equinoxes. This will be explained. 
+First let us explain the spring equinox.
 The lunar mansion position of the mean sun is set at zero in all places.As soon as the mean sun arrives at Aries, it marks the beginning of the seasons and of the spring equinox at the central meridian of the central sector of the south.
 Likewise the spring equinox occurring at the direct center of the other eleven sectors clockwise from the south, such as the western sector of the south, can be matched to the immediate arrival of the mean sun in the other houses, such as Taurus.
 Therefore, by the arrival of the mean sun in Taurus, a spring equinox occurs at the direct center of the western sector of the south.
-Similarly, moving clockwise, when the spring equinox occurs at the third sector, the mean sun will appear in the charts in Gemini, at the fourth in Cancer, at the fifth in Leo, at the sixth in Virgo, at the seventh in Libra, at the eighth in Scorpio, at the ninth in Sagittarius, at the tenth in Capricorn, at the eleventh in Aquarius, and when spring equinox occurs at the direct center of the twelfth, or the eastern, sector of the south, the mean sun arrives in Pisces.
-The above are the equinoxes over the direct center of the sectors, but to be more precise, within each sector more than thirty equinoxes can occur.
-From the moment the mean sun enters Aries until it enters Taurus, the area of land from the center of the central southern sector to the center of the western sector of the south can be divided into thirty parts that constitute thirty solar days, and on each day a spring equinox will occur. Similarly, from the arrival of the mean sun in Taurus until the moment of its arrival in Gemini, the area from the center of the western sector of the south to the center of the eastern sector of the west is divided into thirty parts, each covering a solar day, and on each day a spring equinox will occur.
+Similarly, moving clockwise, when the spring equinox occurs at the third sector, the mean sun will appear in the charts in Gemini, at the fourth in Cancer, 
+at the fifth in Leo, 
+at the sixth in Virgo, 
+at the seventh in Libra, 
+at the eighth in Scorpio, 
+at the ninth in Sagittarius, 
+at the tenth in Capricorn, 
+at the eleventh in Aquarius, and when spring equinox occurs at the direct center of the twelfth, or the eastern, sector of the south, the mean sun arrives in Pisces.
+The above are the equinoxes over the direct center of the sectors, but 
+to be more precise, within each sector more than thirty equinoxes can occur.
+From the moment the mean sun enters Aries until it enters Taurus, 
+the area of land from the center of the central southern sector to the center of the western sector of the south can be divided into thirty parts that constitute thirty solar days,
+and on each day a spring equinox will occur.
+Similarly, from the arrival of the mean sun in Taurus until the moment of its arrival in Gemini, 
+the area from the center of the western sector of the south to the center of the eastern sector of the west is divided into thirty parts, 
+each covering a solar day, and on each day a spring equinox will occur.
 The same applies to the other areas.
-The exceptions are the area from the center of the eastern sector of the west to the center of the central sector of the west, the area from the center of the eastern sector of the north to the center of the central sector of the north, and the area from the center of the eastern sector of the east to the center of the central sector of the east: all these are divided into thirty-one.
-The area from the center of the eastern sector of the south to the center of the central sector of the south is divided into thirty-two.
-The spring equinox occurs on each of these solar days. These are exceptions to the above. The months, named according to their full-moon lunar mansions and designated as early, middle, and later,are linked to particular houses in which the sun dwells. The half-month in which the mean sun enters Aries will be one of the two halves of a waxing-led Caitra.
+The exceptions are the area from the center of the eastern sector of the west to the center of the central sector of the west, the area from the center of the eastern sector of the north to the center of the central sector of the north, 
+and the area from the center of the eastern sector of the east to the center of the central sector of the east: all these are divided into thirty-one.
+The area from the center of the eastern sector of the north to the center of the central sector of the north is also divided into thirty-two.
+These are exceptions to the above.
+The spring equinox occurs on each of these solar days.  
+The months, named according to their full-moon lunar mansions and designated as early, middle, and later,are linked to particular houses in which the sun dwells. 
+The half-month in which the mean sun enters Aries will be one of the two halves of a waxing-led Caitra.
 If the mean sun entering Aries appears in the chart on any date from the first to the fifteenth of the waxing, Aries is assigned to Caitra.
 When the mean sun entering Aries appears in the chart on any date from the first to the fifteenth of the waning, Aries is assigned to a waning-led Vaiśākha, which is then designated as the beginning of the year.
 The Great Commentary says:
-In this Lesser Jambudvīpa, south of Meru, the houses of Aries and so forth, the times of spring and so forth, the months of Caitra and so forth, and the halves are all well known.This shows Aries assigned to a waxing-led Caitra. Again the Great Commentary states: In this continent south of Meru, the sun dwells in Aries, and Vaiśākha is the spring.This illustrates the house of Aries assigned to a waning-led Vaiśākha.
-In this way, the month assigned to Aries when that month is waxing-led will be Caitra in all of the twelve sectors, and when waning-led, the month assigned to Aries will be Vaiśākha in all twelve sectors.
-When the month of the sun entering Aries is designated a waxing-led month, here in our central sector of the south, middle spring is the month of Caitra.
+In this Lesser Jambudvīpa, south of Meru, the houses of Aries and so forth, the times of spring and so forth, 
+the months of Caitra and so forth, 
+and the halves are all well known.
+This shows Aries assigned to a waxing-led Caitra. 
+Again the Great Commentary states: 
+In this continent south of Meru, the sun dwells in Aries, and Vaiśākha is the spring.
+This illustrates the house of Aries assigned to a waning-led Vaiśākha.
+In this way, the month assigned to Aries when that month is waxing-led will be Caitra in all of the twelve sectors, 
+and when waning-led, the month assigned to Aries will be Vaiśākha in all twelve sectors.
+When the month of the sun entering Aries is designated a waxing-led month, 
+here in our central sector of the south, middle spring is the month of Caitra.
 Proceeding counterclockwise, in the second sector, or the eastern sector of the south, later spring is Caitra.
 In the third sector counterclockwise, early summer is Caitra.
-In the fourth, middle summer is Caitra. In the fifth, later summer is Caitra. In the sixth, Caitra is in early autumn;
-in the seventh, Caitra is middle autumn;
+In the fourth, middle summer is Caitra. 
+In the fifth, later summer is Caitra. 
+In the sixth, Caitra is in early autumn;
+in the seventh, 
+Caitra is middle autumn;
 and in the eighth, it is later autumn.
-In the ninth sector Caitra occurs in early winter, in the tenth in middle winter, and in the eleventh in later winter.
-In the twelfth sector, the western sector of the south, Caitra is in early spring.
-When the month of the sun’s residence in Aries is designated a waning-led month, in this central sector of the south, later spring is the month of Vaiśākha. Similarly, moving counterclockwise, in the second sector, early summer is Vaiśākha.
-In the third, middle summer is Vaiśākha, and so on, until the twelfth sector, the western sector of the south, where middle spring would be Vaiśākha. When the sun, on its journey from Aries, arrives in Cancer, it has reached the limit of its northward journey from the standpoint of the center of this central sector of the south.
+In the ninth sector Caitra occurs in early winter, 
+in the tenth in middle winter, 
+and in the eleventh in later winter.
+In the twelfth sector, the western sector of the south, Caitra is in early spring.When the month of the sun’s residence in Aries is designated a waning-led month, in this central sector of the south, later spring is the month of Vaiśākha.
+Similarly, moving counterclockwise, in the second sector, early summer is Vaiśākha.
+In the third, middle summer is Vaiśākha, and so on, until the twelfth sector, the western sector of the south, where middle spring would be Vaiśākha.
+When the sun, on its journey from Aries, arrives in Cancer, it has reached the limit of its northward journey from the standpoint of the center of this central sector of the south.
 Similarly, proceeding clockwise, the northern limit of the sun’s journey from the standpoint of the direct center of each of the remaining eleven sectors can be applied to the moment the mean sun arrives in Leo and the other eleven houses. For example, at the direct center of the western sector of the south, it is the moment of the sun’s arrival in Leo that marks the limit of the sun’s northward journey.
 Similarly, moving clockwise, the moment of the mean sun’s arrival in Virgo marks the limit of the sun’s northward journey at the direct center of the third sector, or the eastern sector of the west. Similarly it is Libra at the fourth clockwise, Scorpio at the fifth, Sagittarius at the sixth, Capricorn at the seventh, Aquarius at the eighth, Pisces at the ninth, Aries at the tenth, Taurus at the eleventh.
 And the moment of the mean sun’s arrival at Gemini marks the limit of the sun’s northward journey at the direct center of the eastern sector of the south. This can be looked at in more detail. Between the sun’s journey from Cancer and the moment of its arrival in Leo, the area from the direct center of the central sector of the south to the center of the western sector of the south can be divided into thirty parts. In each part the sun will travel to its northern limit, which means a summer solstice,occurring each time. A summer solstice, therefore, occurs thirty times.
